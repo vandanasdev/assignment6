@@ -21,7 +21,7 @@
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "@babel/preset-react": "^7.8.3",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "description": "CS648 Spring 2020 Assignment",
   "repository": {
